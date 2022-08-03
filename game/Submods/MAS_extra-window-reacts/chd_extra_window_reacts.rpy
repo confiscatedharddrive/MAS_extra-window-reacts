@@ -122,7 +122,7 @@ label chd_mas_wrs_npr:
         m_name,
         [
             "Public radio is a great way to get informed!",
-            "For NPR news, I'm Monika.",
+            "For NPR news, I'm {monika}.",
             "Listening to some public radio, [player]?",
             "NPR's got some interesting podcasts!"
         ],
